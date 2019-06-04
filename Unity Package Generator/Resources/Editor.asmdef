@@ -1,0 +1,16 @@
+{
+    "name": "[%CAPITALIZED_PACKAGE_IDENTIFIER%].Editor",
+    "references": [
+        "[%CAPITALIZED_PACKAGE_IDENTIFIER%]"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
