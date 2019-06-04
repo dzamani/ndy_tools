@@ -8,4 +8,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.0.1] - 2019-06-04
 ### Added
-- Initial submission for package distribution
+- Initial submission
