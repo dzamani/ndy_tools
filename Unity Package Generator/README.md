@@ -16,9 +16,4 @@ Each tool has his own documentation either in a Documentation folder or, if it's
   * Default changelog
   * Package folder architecture with Editor and Runtime asmdef
   * Default package definition in his package.json
-  * Default unity project with custom package in the manifest (local package) based on 2019.1.0f1
-  
-## Roadmap
-
-* Package update (updating changelog based differents conditions)
-* Package authoring (copyright each .cs file)
+  * Default unity project with custom package in the manifest (local package) based on 2020.2.0b10

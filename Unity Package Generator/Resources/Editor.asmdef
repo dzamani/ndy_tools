@@ -1,9 +1,9 @@
 {
     "name": "[%CAPITALIZED_PACKAGE_IDENTIFIER%].Editor",
+    "rootNamespace": "[%ROOT_NAMESPACE%]",
     "references": [
         "[%CAPITALIZED_PACKAGE_IDENTIFIER%]"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
     ],
@@ -12,5 +12,7 @@
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": []
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }
