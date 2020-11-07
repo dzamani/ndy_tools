@@ -6,6 +6,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.1] - 2019-06-04
+## [1.1.0] - 2020-11-06
+### Added
+- Default README.md file handling
+- New root_namespace argument for asmdef files
+### Changed
+- Changed License extension
+
+## [1.0.0] - 2019-06-04
 ### Added
 - Initial submission

@@ -8,13 +8,8 @@
     ],
     "category": "TBD",
     "dependencies": {},
-    "files": [
-        "/Editor",
-        "/Editor.meta",
-        "/Runtime",
-        "/Runtime.meta",
-        "/Documentation",
-        "/Documentation.meta",
-        "package.json.meta"
-    ]
+    "author": {
+        "name": "David Zamani-Kord",
+        "email": "zamanikord.david@gmail.com"
+    }
 }   
